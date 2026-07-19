@@ -16,5 +16,5 @@
     "@changesets/changelog-github": "^0.7.0",
     "@changesets/cli": "^2.30.0"
   },
-  "packageManager": "npm@10.9.4"
+  "packageManager": "npm@10.9.8"
 }
